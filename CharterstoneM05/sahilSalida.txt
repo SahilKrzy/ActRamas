@@ -1,0 +1,21 @@
+
+Error: S--> << La acción requerida es incorrecta >>
+INICIANDO PARTIDA
+Error: M 1 2--> << El jugador no puede volver a jugar >>
+	Jugador [color=Azul, cantidadPunto=0, cantidadMadera=2, cantidadCarbon=0, cantidadTrigo=0, cantidadMoneda=0]
+	Jugador [color=Rojo, cantidadPunto=0, cantidadMadera=0, cantidadCarbon=0, cantidadTrigo=2, cantidadMoneda=0]
+	Jugador [color=Verde, cantidadPunto=0, cantidadMadera=0, cantidadCarbon=2, cantidadTrigo=0, cantidadMoneda=0]
+	Jugador [color=Lila, cantidadPunto=0, cantidadMadera=1, cantidadCarbon=0, cantidadTrigo=1, cantidadMoneda=0]
+	Jugador [color=Amarillo, cantidadPunto=0, cantidadMadera=0, cantidadCarbon=1, cantidadTrigo=1, cantidadMoneda=0]
+	Jugador [color=Negro, cantidadPunto=0, cantidadMadera=1, cantidadCarbon=1, cantidadTrigo=0, cantidadMoneda=0]
+Error: M 1 6--> << El jugador no puede volver a jugar >>
+Error: M 2 1--> << Turno completado >>
+	Localizacion [recursoRequerido=T, cantidadRequerida=1, recursoObtenido=M, cantidadObtenida=3, jugador= Rojo]
+	Localizacion [recursoRequerido=M, cantidadRequerida=1, recursoObtenido=C, cantidadObtenida=2, jugador= Ninguno]
+	Localizacion [recursoRequerido=M, cantidadRequerida=1, recursoObtenido=T, cantidadObtenida=2, jugador= Ninguno]
+	Localizacion [recursoRequerido=X, cantidadRequerida=1, recursoObtenido=X, cantidadObtenida=2, jugador= Ninguno]
+	Localizacion [recursoRequerido=T, cantidadRequerida=2, recursoObtenido=C, cantidadObtenida=5, jugador= Ninguno]
+	Localizacion [recursoRequerido=C, cantidadRequerida=2, recursoObtenido=P, cantidadObtenida=10, jugador= Ninguno]
+	Localizacion [recursoRequerido=X, cantidadRequerida=5, recursoObtenido=P, cantidadObtenida=10, jugador= Ninguno]
+	Localizacion [recursoRequerido=T, cantidadRequerida=5, recursoObtenido=P, cantidadObtenida=10, jugador= Ninguno]
+	Localizacion [recursoRequerido=C, cantidadRequerida=2, recursoObtenido=X, cantidadObtenida=5, jugador= Ninguno]
